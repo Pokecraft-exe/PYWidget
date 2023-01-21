@@ -1,2 +1,4 @@
 # PYWidget
-creates simple widgets in python for windows
+
+PYWidget offers to create widgets in python for windows fully customizable.
+
